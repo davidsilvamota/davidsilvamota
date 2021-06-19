@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello World... 🌎
+
+##### Welcome to my profile 🙌😘
+
+#### My name is David.
+I am 25 years old.
+I currently live in
+💚💛Brazil💛💚
+
+❤️I am passionate about Programming and Codes. ❣️
+
+💻I have been dedicated a lot to Studying and learning new languages,👨🏻‍💻
+
+my focus for this year is the
+Mobile Development 📱
+
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davidsilvamota)](https://github.com/davidsilvamota)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/

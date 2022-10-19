@@ -27,8 +27,7 @@ I currently live in
 
 💻I have been dedicated a lot to Studying and learning new languages,👨🏻‍💻
 
-my focus for this year is the
-Mobile Development 📱
+Mobile and Web Development 📱
 
  
 

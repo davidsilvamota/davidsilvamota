@@ -1,44 +1,30 @@
+# 👋 Hi, I'm David Mota
 
+💻 Front-End Developer focused on building scalable Web and Mobile applications.
 
-<!--
-**davidsilvamota/davidsilvamota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about technology, user experience and performance.
+Currently expanding my knowledge in **Artificial Intelligence and AI Agents**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hello World... 🌎
+## 🧠 About Me
 
-##### Welcome to my profile 🙌😘
+* 💻 Front-End Developer
+* 🌎 Based in Brazil
+* 📱 Experience with **Web and Mobile Development**
+* 🤖 Currently studying **AI Agents and AI integrations**
+* 🚀 Always learning new technologies
 
-#### My name is David.
-I am 25 years old.
-I currently live in
-💚💛Brazil💛💚
+---
 
-❤️I am passionate about Programming and Codes. ❣️
+## ⚡ Tech Stack
 
-💻I have been dedicated a lot to Studying and learning new languages,👨🏻‍💻
+### Front-end
 
-Mobile and Web Development 📱
+![React](https://img.shields.io/badge/-React-20232A?style=flat\&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat\&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat\&logo=angular)
 
- 
+### Languages
 
-## About me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davidsilvamota)](https://github.com/davidsilvamota)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-mota-79b01a215/)](https://www.linkedin.com/in/david-mota-79b01a215/)
-
-
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&)
